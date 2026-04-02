@@ -6,7 +6,7 @@ CheckMark is the working repository for the AI-based IoT Attendance and Access C
 - `mobile/`: Flutter client scaffold
 - `backend/`: Flask API scaffold
 - `firmware/`: ESP32 placeholder
-- `docs/`: setup and project docs
+- `docs/`: setup and project docs.
 
 
 ## Included in this baseline
