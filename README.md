@@ -1,7 +1,6 @@
 ## CheckMark
 
 CheckMark is the working repository for the AI-based IoT Attendance and Access Control System.
-
 ## Repository structure
 - `mobile/`: Flutter client scaffold
 - `backend/`: Flask API scaffold
